@@ -22,8 +22,8 @@ Welcome to my Github page! I am Moha Denis and I am currently a  Computer scienc
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
-
+<!-- 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+ -->
 
 
 <br />
